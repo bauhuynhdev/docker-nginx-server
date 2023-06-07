@@ -1,0 +1,7 @@
+/jinjer_mysql/*
+/shared/*
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/server.iml
+/.idea/vcs.xml
